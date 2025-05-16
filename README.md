@@ -11,7 +11,7 @@ avoiding manual testing every time.
 **Answer:**  
 Navigation mode audits the page from the moment it begins loading, giving a full performance picture including metrics like load time and interactivity. Snapshot mode only analyzes the current state of the page as-is, which is useful for checking accessibility but does not measure JS performance or dynamic content loading.
 
-**4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.**
+**4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.**  
 **Answer:**  
 1. Optimize image sizes to improve page load speed.  
 2. Add descriptive `alt` text to images for better accessibility.  
